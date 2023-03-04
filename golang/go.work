@@ -1,0 +1,34 @@
+go 1.19
+
+use (
+	./arrays
+	./concurrency/channels/buffered_channel
+	./concurrency/channels/reading_channels
+	./concurrency/channels/readwrite_channels
+	./concurrency/go_routines/multiple_go_routines
+	./concurrency/go_routines/singular_go_routine
+	./control_statements/for_loops
+	./control_statements/if_else
+	./control_statements/switch
+	./errors/custom_error
+	./errors/defer
+	./errors/panic
+	./errors/recover
+	./functions
+	./init_function
+	./maps
+	./pointers
+	./reflection/struct_inspector
+	./reflection/tags
+	./reflection/type_of
+	./reflection/value_of/basic_value_of
+	./reflection/value_of/creating_functions
+	./reflection/value_of/setting_values
+	./reflection/value_of/structs_value_of
+	./slices
+	./structs/basic_struct
+	./structs/methods/embedded_methods
+	./structs/methods/interfaces
+	./structs/methods/method_definition
+	./structs/nested_struct
+)
