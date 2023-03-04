@@ -1,7 +1,7 @@
 # Maphunziro
 Coding Education Content
 
-Begginer Oriented Tutorials for Golang and Dart.
+Begginer Oriented Tutorials in Golang and Dart.
 
 You'll get to learn programming concepts and their applicaton using Go and/or Dart
 
