@@ -3,8 +3,12 @@ go 1.19
 use (
 	./arrays
 	./concurrency/channels/buffered_channel
+	./concurrency/channels/channel_directions
+	./concurrency/channels/closing_channels
 	./concurrency/channels/reading_channels
+	./concurrency/channels/reading_using_range
 	./concurrency/channels/readwrite_channels
+	./concurrency/channels/select_statement
 	./concurrency/go_routines/multiple_go_routines
 	./concurrency/go_routines/singular_go_routine
 	./control_statements/for_loops
