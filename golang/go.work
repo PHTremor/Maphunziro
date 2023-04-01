@@ -9,6 +9,7 @@ use (
 	./concurrency/channels/reading_using_range
 	./concurrency/channels/readwrite_channels
 	./concurrency/channels/select_statement
+	./concurrency/channels/select_statement/non_blocking_select
 	./concurrency/go_routines/multiple_go_routines
 	./concurrency/go_routines/singular_go_routine
 	./control_statements/for_loops
